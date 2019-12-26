@@ -3,7 +3,11 @@
 
 <div class="container1">
 	<div class="adminContainer">
-	<div class="addchapter"> <a href="index.php?action=addChapters">Ajouter un Chapitre</a>
+	<div class="addchapter">
+	
+		 <a href="index.php?action=addChapters"><i class="material-icons">
+post_add
+</i>Ajouter un Chapitre</a>
 	</div>
 		<div class="table-box">
 			<table cellpadding="10">
